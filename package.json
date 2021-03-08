@@ -1,0 +1,18 @@
+{
+  "name": "coin-stats",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "currency-formatter": "^1.5.6",
+    "next": "10.0.7",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-infinite-scroll-component": "^6.0.0",
+    "react-table": "^7.6.3"
+  }
+}
